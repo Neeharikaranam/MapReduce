@@ -6,5 +6,6 @@ We have 3 UDFs.
  
  How to run this code?
  
-      To run this code, we need to clone this repo and compile all the files in src directory. After compiling, we need to run the command java MapReduce from the current directory. MapReduce.java is the main class calling mapper and reducer classes.
+ 
+To run this code, we need to clone this repo and compile all the files in src directory. After compiling, we need to run the command java MapReduce from the current directory. MapReduce.java is the main class calling mapper and reducer classes.
       
