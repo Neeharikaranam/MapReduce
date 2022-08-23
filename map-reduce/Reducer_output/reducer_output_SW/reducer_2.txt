@@ -1,0 +1,15 @@
+<doesn : 2>
+<sky : 2>
+<a : 3>
+<mirror : 2>
+<in : 3>
+<curtains : 2>
+<for : 3>
+<range : 2>
+<team : 2>
+<good : 2>
+<people : 2>
+<the : 2>
+<moon : 2>
+<himalayas : 2>
+<groceries : 2>

@@ -1,0 +1,8 @@
+<sky : 1>
+<a : 2>
+<mirror : 1>
+<in : 1>
+<curtains : 1>
+<for : 1>
+<team : 1>
+<people : 1>

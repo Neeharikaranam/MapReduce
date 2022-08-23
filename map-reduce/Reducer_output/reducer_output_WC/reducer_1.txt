@@ -1,0 +1,7 @@
+<gold : 1>
+<twinkle : 2>
+<precious : 1>
+<leaves : 1>
+<are : 2>
+<happy : 1>
+<colors : 1>
