@@ -1,4 +1,4 @@
-# 532-Project-1
+# Project
 We have 3 UDFs. 
  1. Word Count -> Prints the count of all the words in the input document. 
  2. Word Length -> Prints all the words with fixed number of letters.
